@@ -11,7 +11,7 @@ This bootcamp runs about 4 months, 10 sprints
 - Statistics
 - Machine Larning
 - Website with WordPress
-- Python
+- Python for data analysis
 - Dashboard
 
 ## contact me
